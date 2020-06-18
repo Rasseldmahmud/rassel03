@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+header{
+    box-shadow: -2px -5px 15px #565555;
+    padding-top: 10px;
+}
+.logo{
+    width: 30%;
+    float: left;
+}
+.logo img{
+    padding: 6px;
+}
+nav{
+    width: 70%;
+    float: left;
+    padding-top: 11px;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    display: inline-block;
+    text-transform: capitalize;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 26px;
+    color: #3b506c;
+}
+nav ul li a:hover{
+	    color: #0c66ff;
+
+ }
+
+.section{}
+.main-contant{
+	text-align: center;
+	padding-top: 50px;
+}
+.main-contant h1{
+    margin: 0;
+    font-size: 64px;
+    max-width: 688px;
+    margin: 0 auto;
+    color: #3b506c;
+}
+.main-contant h1 span{
+    color: #0c66ff;
+    text-transform: capitalize;
+}
+.main-contant p{
+    color: #3b506c;
+    font-size: 20px;
+    margin: 0;
+    padding-top: 20px;
+}
+
+
+.image-section{
+    padding-top: 40px;
+}
+.main-image{
+    margin: 0 auto;
+    display: block;
+    max-width: 700px;
+}
+.main-image img{
+	padding: 20px;
+
+}
+.feature-section{
+    padding: 20px 0px;
+}
+.rassel{
+	max-width: 50%;
+	float: left;
+	padding: 15px;
+}
+.blog{
+
+}
+.blog h2{
+	font-size: 50px;
+	margin: 0;
+	color: #3f3d56;
+}
+.blog h2 span{
+	color: #ff5656;
+}
+.blog p{
+	font-size: 20px;
+	margin: 0;
+	padding: 28px 0;
+	line-height: 25px;
+}
+.aling-right{
+	text-align: right;
+}
+.gallary-section{
+    padding: 45px 0;
+}
+.colum{
+	max-width: 33.33%;
+	float: left;
+	padding: 11px;
+	box-sizing: border-box;
+	box-shadow: inset 2px -4px 16px #23232330;
+}
+.gallry{
+    padding: 20px;
+}
+.gallry img{
+    display: block;
+    max-width: 100%;
+    height: 250px;
+}
+.gallry h3{
+    font-size: 25px;
+    color: #575a89;
+}
+.gallry p{
+    line-height: 24px;
+    font-size: 16px;
+}
+
+
+
+.red{
+    background-color: #ff00001a;
+}
+.green{
+    background-color: #00800029;
+}
+.orange{
+    background-color: #f5a51461;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
